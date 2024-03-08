@@ -1,0 +1,2 @@
+
+In both scenario1 and scenario2, run everything, if you want to change some parameters, the parameters to be changed will be in the block with the comment #final block.  The test script for scenario 1 and scenario 2 is also uploaded with all the relevant information.  For problem formulation, read the phase 2 final submission PDF document.
